@@ -16,7 +16,7 @@
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "2ADD21E21C56642D00252DB5"
                BuildableName = "VersionKit.framework"
-               BlueprintName = "VersionKit"
+               BlueprintName = "VersionKit iOS"
                ReferencedContainer = "container:VersionKit.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -44,7 +44,7 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "2ADD21E21C56642D00252DB5"
             BuildableName = "VersionKit.framework"
-            BlueprintName = "VersionKit"
+            BlueprintName = "VersionKit iOS"
             ReferencedContainer = "container:VersionKit.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
@@ -66,7 +66,7 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "2ADD21E21C56642D00252DB5"
             BuildableName = "VersionKit.framework"
-            BlueprintName = "VersionKit"
+            BlueprintName = "VersionKit iOS"
             ReferencedContainer = "container:VersionKit.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
@@ -84,7 +84,7 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "2ADD21E21C56642D00252DB5"
             BuildableName = "VersionKit.framework"
-            BlueprintName = "VersionKit"
+            BlueprintName = "VersionKit iOS"
             ReferencedContainer = "container:VersionKit.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
