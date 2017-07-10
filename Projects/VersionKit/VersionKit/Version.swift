@@ -44,6 +44,14 @@ public struct Version {
         return "\(major).\(minor).\(build).\(iteration).\(atom)"
     }
     
+    public var hostVersionString: String {
+        return "\(major).\(minor) (\(iteration))"
+    }
+    
+    public var productVersionString: String {
+        return "\(major).\(minor) (\(build))"
+    }
+    
     internal func maxOptimisticVersion() -> UInt64 {
         
         var versionArray = [UInt64(major), UInt64(minor), UInt64(build), UInt64(iteration), UInt64(atom)]
